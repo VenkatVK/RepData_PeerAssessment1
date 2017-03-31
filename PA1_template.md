@@ -12,7 +12,6 @@ Show any code that is needed to:
 
     library(dplyr)
 
-    ## 
     ## Attaching package: 'dplyr'
 
     ## The following objects are masked from 'package:stats':
